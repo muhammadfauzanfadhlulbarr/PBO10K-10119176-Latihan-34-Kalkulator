@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 /**
- * Latihan33
+ * Latihan34
  * Nama     : Muhammad Fauzan Fadhlulbarr
  * Kelas    : PBO10K
  * NIM      : 10119176
- * Program  : User Login
+ * Program  : Kalkulator
  */
 
 public class PBO10k10119176Latihan34 {
